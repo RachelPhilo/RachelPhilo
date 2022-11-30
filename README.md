@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am Rachel Philo Jojo
 
-- 🔭 I’m currently working on :MEAN Stack
-- 🌱 I’m currently learning : Angular.js
+- 🔭 I’m currently working on : Backend Tasks
+- 🌱 I’m currently learning : Go
 - 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
